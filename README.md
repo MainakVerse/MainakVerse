@@ -12,7 +12,7 @@
 <div align="center"><table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/MainakRepositor/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table></div>
 
@@ -50,7 +50,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![GitHub followers](https://img.shields.io/github/followers/MainakRepositor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MainakRepositor?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/MainakVerse.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MainakRepositor?tab=followers)
 [![Awesome Badges](https://img.shields.io/badge/coding-awesome-green.svg)](https://github.com/Naereen/badges)
 
 
@@ -62,7 +62,7 @@
 <div align="center">
 I am a Computer Science Engineering undergraduate student of the SRM University, Chennai who has been ruling in the Final year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. I love codes and cats. I am much passionate to learn more of <u>Data Science</u> and <u>Machine Learning</u>, so that I could implement them to analyse the huge data which the world produces.</div>
 
-### Want to know more about me? Have a look at [My Portfolio Website](https://mainakfolio.netlify.app/)
+### Want to know more about me? Have a look at [My Portfolio Website](https://mainakchaudhuri.netlify.app/)
 
 <hr>
 
@@ -249,32 +249,32 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   
 <h2>🏆 My Trophies: </h2>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2>📊 My Github Stats: </h2>
 <center>
   
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakVerse/badges)
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td rowspan="2">
-      <p align="left"> <a href="https://github.com/MainakRepositor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=radical" />
+      <p align="left"> <a href="https://github.com/MainakVerse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&langs_count=100&theme=radical" />
 </a> </p></td>
-    <td><a href="https://github.com/MainakRepositor">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="MainakRepositor"/>
+    <td><a href="https://github.com/MainakVerse">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="MainakVerse"/>
 </a> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MainakRepositor">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast&line_height=20" alt="MainakRepositor"/>
+    <td><a href="https://github.com/MainakVerse">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakVerse&theme=highcontrast&line_height=20" alt="MainakVerse"/>
 </a></td> 
   </tr>
   </table>
 
   
-### My Github Rank :  [Check Here](https://gitstar-ranking.com/MainakRepositor) 
+### My Github Rank :  [Check Here](https://gitstar-ranking.com/MainakVerse) 
   
 ### Top Repositories ✨:
 
