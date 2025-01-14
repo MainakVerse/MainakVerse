@@ -60,7 +60,7 @@
 
 <div align="center"><img width="600" height="300" padding-left="60px" src="https://31.media.tumblr.com/c891df5d9d74fb5f8f1496d33d1cbec3/tumblr_n40g5wTcba1t24k6go1_500.gif" /></div>
 <div align="center">
-I am a Computer Science Engineering undergraduate student of the SRM University, Chennai who has been ruling in the Final year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. I love codes and cats. I am much passionate to learn more of <u>Data Science</u> and <u>Machine Learning</u>, so that I could implement them to analyse the huge data which the world produces.</div>
+Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of diverse experience in industry and startup environments. Expert in leveraging data to drive insights and innovation. Proven track record in web development, API building, unit testing, machine learning, predictive analytics, deep learning, NLP and data-driven decision-making, delivering impactful solutions in fast-paced settings. Passionate about transforming data into actionable strategies, especially with the help of web technologies for better and more widespread impact. A growth-hacker and professional writer with the aim of rising positivity amongst people.</div>
 
 ### Want to know more about me? Have a look at [My Portfolio Website](https://mainakchaudhuri.netlify.app/)
 
@@ -74,7 +74,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <li>🔭 I’m currently working on something cool and exciting 😉</li>
  <li>🌱 I’m currently learning Deep Learning, Functional Programming and Flutter Development</li>
  <li>💬 Ask me about anything related to Python, Linux, Data Analytics or Machine Learning</li>
- <li>📫 How to reach me: mainakc24365@gmail.com</li>
+ <li>📫 How to reach me: mainakchaudhuri671@gmail.com</li>
  <li>⚡ Fun fact: I ❤️ 🐈s,🎼🎵,💻 </li>
 </ul>
 <hr>
