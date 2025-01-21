@@ -274,7 +274,7 @@ Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of
   </table>
 
   
-### My Github Rank :  [Check Here](https://gitstar-ranking.com/MainakVerse) 
+
   
 ### Top Repositories ✨:
 
