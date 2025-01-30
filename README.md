@@ -248,7 +248,7 @@ Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of
   
 <h2>🏆 My Trophies: </h2>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2>📊 My Github Stats: </h2>
 <center>
