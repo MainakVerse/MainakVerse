@@ -262,7 +262,7 @@ Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&langs_count=100&theme=radical" />
 </a> </p></td>
     <td><a href="https://github.com/MainakVerse">    
-     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&preferLogin=false">    <img  alt="MainakVerse's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MainakVerse?cardType=level&theme=chartreuse-dark&preferLogin=false" />
+       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=flag-india&preferLogin=false&Background=000000">    <img  alt="MainakVerse's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MainakVerse?cardType=level&theme=flag-india&preferLogin=false&Background=000000" />  </a>
 </a> </td>
   </tr>
   <tr>
