@@ -69,7 +69,7 @@
 <h3>THE LANGUAGE I CODE IN</h3>
 <table>
   <tr>
-    <td><div align="center"><img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></div></td>
+    <td><div align="center"><img height="200" width="320" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></div></td>
     <td>
      <table>       
   <tr>
