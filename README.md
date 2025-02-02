@@ -52,6 +52,14 @@ Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of
 
 <hr>
 
+<table>
+  <tr>
+    <td>Portfolio</td>
+    <td>Instagram</td>
+    <td>Linkedin</td>
+    <td>Email</td>
+  </tr>
+</table>
  
 ### 🎈🧧 What I do in Github ?
 
