@@ -2,14 +2,20 @@
 
 <table>
   <tr>
-    <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" /></td>    
+    <td align="justify">Hey there, I am Mainak Chaudhuri. I'm a dynamic <b>Data Scientist</b>, <b>Salesforce</b> and <b>Full-stack Web Developer</b> with 2+ years of diverse experience in industry and startup environments. Expert in leveraging data to drive insights and innovation. Proven track record in web development, API building, unit testing, payment gateway integration, CMS integration, blogger integration, Generative AI, LLM, machine learning, predictive analytics, deep learning, NLP and data-driven decision-making, delivering impactful solutions in fast-paced settings. Passionate about transforming data into actionable strategies, especially with the help of web technologies for better and more widespread impact. A growth-hacker and professional writer with the aim of rising positivity amongst people.</td>
+  </tr>
+</table>
+
+<table> 
+  <tr>
+    <td>Describing Myself</td>
+    <td>Visitor Count</td>
+  </tr>
+  <tr>    
+    <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" /></td>    
     <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50" /></td>    
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
- 
+  
   
 </table>
 
