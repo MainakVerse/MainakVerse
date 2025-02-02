@@ -92,20 +92,14 @@
   </tr>
 </table>
 
-<h3>A secret about me:</h3>
+<h3>A SECRET ABOUT ME: 😉</h3>
 <details>
   <h2>Yes! You have seen right</h2>
   <img src="https://user-images.githubusercontent.com/64016811/144610111-95b04651-8474-4596-8bc9-b46717caa37f.png">
 </details>
 
- 
-<div align="center">
-<br>
-<hr>
 <div align="center"><h3> SO, HOW'S THAT? </h3></div>
 <div align="center"><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></div>
-
-
     
    <div class="footer" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡" alt="Footer" />
