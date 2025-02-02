@@ -1,9 +1,5 @@
-<div align="center">  <span><img src="https://user-images.githubusercontent.com/64016811/146664953-260f23f4-4e60-4775-abce-c1e04d3330bd.gif"> </span></h1></div>
+![Screenshot 2025-02-02 093302](https://github.com/user-attachments/assets/a56f83af-adc0-4d0d-9640-2bfb5695f428)
 
-![bg](https://user-images.githubusercontent.com/64016811/146644165-9543bc94-3b41-4458-a2b2-4d6b2d41b876.jpg)
-
- 
-<div align="center"><img height="80" width="400" src="https://i.pinimg.com/originals/88/81/44/8881444f23794650da1fe33c1bed39e0.gif"></div>
 
 
 <div align="center"><h1>𝕿𝖔 𝖙𝖍𝖊 𝖌𝖊𝖓𝖊𝖘𝖎𝖘 𝖔𝖋 𝖈𝖚𝖗𝖎𝖔𝖘𝖎𝖙𝖞...❣👨‍🔬</h1></div>
