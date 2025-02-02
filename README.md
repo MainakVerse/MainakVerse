@@ -49,10 +49,7 @@
       <td><img alt ="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
     </tr>
   </table>
-      <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    
-    <br/>
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
+     
 <img alt="Mainak Chaudhuri" width="905" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
