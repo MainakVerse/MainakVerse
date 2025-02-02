@@ -1,3 +1,11 @@
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/1537c3ac-4046-4fbf-bd7f-36ea4517872a" width="100" height="100"> 
+  <p>HUMATA. HUKHTA. HVARSHTA</p>
+</div>
+
+
+
+
 ![image](https://github.com/user-attachments/assets/85aa1155-2150-425c-bca2-1aa0326820cc)
 
 <table>
