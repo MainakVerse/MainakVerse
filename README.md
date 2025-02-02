@@ -42,15 +42,15 @@
 <details open>
   <summary><h2>ACTIVITIES & STRATEGIES</h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=7">
-  <img alt="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8">
+  <img alt="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img alt ="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" />
+    <img alt ="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img alt="Mainak Chaudhuri" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
+<img alt="Mainak Chaudhuri" width="905" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=00ffff" />
+    <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
     <br/>
 </p>
 </details>
