@@ -15,8 +15,8 @@
  
 <p align="center">
   <a href="https://github.com/MainakVerse?tab=followers">
-    <img alt="Mainak Chaudhuri" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MainakVerse?color=FF0000&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
-    <img alt="Mainak Chaudhuri" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/MainakVerse?color=FF0000&labelColor=000000&logo=star&style=for-the-badge"/>
+    <img alt="Mainak Chaudhuri" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MainakVerse?color=0000CC&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
+    <img alt="Mainak Chaudhuri" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/MainakVerse?color=0000CC&labelColor=000000&logo=star&style=for-the-badge"/>
 
 <p/>
 
