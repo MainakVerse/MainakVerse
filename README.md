@@ -1,22 +1,14 @@
-<div align="center">
- <img src="https://github.com/user-attachments/assets/1537c3ac-4046-4fbf-bd7f-36ea4517872a" width="100" height="100"> 
-  <p>HUMATA. HUKHTA. HVARSHTA</p>
-</div>
-
-
-
-
 ![image](https://github.com/user-attachments/assets/85aa1155-2150-425c-bca2-1aa0326820cc)
 
 <table>
-  <h3>PROFILE SUMMARY</h3>
+  <h3>PROFILE SUMMARY 💿</h3>
   <tr>
     <td align="justify">Hey there, I am Mainak Chaudhuri. I'm a dynamic <b>Data Scientist</b>, <b>Salesforce</b> and <b>Full-stack Web Developer</b> with 2+ years of diverse experience in industry and startup environments. Expert in leveraging data to drive insights and innovation. Proven track record in web development, API building, unit testing, payment gateway integration, CMS integration, blogger integration, Generative AI, LLM, machine learning, predictive analytics, deep learning, NLP and data-driven decision-making, delivering impactful solutions in fast-paced settings. Passionate about transforming data into actionable strategies, especially with the help of web technologies for better and more widespread impact. A growth-hacker and professional writer with the aim of rising positivity amongst people.</td>
   </tr>
 </table>
 
 <table> 
-  <h3>ABOUT ME</h3>
+  <h3>ABOUT ME 🕵️</h3>
   <tr>
     <td align="center">
   <a href="https://github.com/MainakVerse?tab=followers">
@@ -35,7 +27,7 @@
 
 <table>   
    <tr> 
-    <h3>CONNECT</h3>
+    <h3>CONNECT 🤝</h3>
     <td>Network is the Net-Worth. If you feel that are something beyond codes that you want to share, I would be glad to connect with you. Criticisms and Proposals are always welcome! </td>
     <td><img src="https://github.com/user-attachments/assets/553fe413-7a16-4336-a038-8af2bfe10135" width="40"><a href="">Portfolio</a></td>
     <td><img src="https://github.com/user-attachments/assets/e8e39730-3624-4a1e-86d5-9413867530bb" width="40"><a href="">Instagram</a></td>
@@ -47,11 +39,11 @@
 </table>
 
 
-<h3>ACHIEVEMENTS</h3>
+<h3>ACHIEVEMENTS 🏆</h3>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8">
 
-<h3>ACTIVITIES</h3>
+<h3>ACTIVITIES 🧶</h3>
   <table>
     <tr><td><img alt="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
 </td>
@@ -59,17 +51,17 @@
     </tr>
   </table>
 
-<h3>STATS</h3>     
+<h3>STATS 📊</h3>     
 <img alt="Mainak Chaudhuri" width="905" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-<h3>MOST USED TECHS</h3>
+<h3>MOST USED TECHS ⚙️</h3>
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
     <br/>
 </p>
 
 </div>
 
-<h3>THE LANGUAGE I CODE IN</h3>
+<h3>THE LANGUAGE I CODE IN 💻</h3>
 <table>
   <tr>
     <td><div align="center"><img height="200" width="350" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></div></td>
