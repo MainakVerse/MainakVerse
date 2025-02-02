@@ -22,6 +22,8 @@
   </tr>
 </table>
 <hr>  
+
+<detail open>
   <summary><h2>Streaks, Stats & Activity</h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img alt="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
@@ -34,6 +36,7 @@
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=00ffff" />
     <br/>
 </p>
+  <detail>
 </div>
 
 
