@@ -1,5 +1,4 @@
-![Screenshot 2025-02-02 093302](https://github.com/user-attachments/assets/a56f83af-adc0-4d0d-9640-2bfb5695f428)
-
+![image](https://github.com/user-attachments/assets/775ff666-1b22-48cf-8dae-8643d9b107e6)
 
 
 <div align="center"><h1>𝕿𝖔 𝖙𝖍𝖊 𝖌𝖊𝖓𝖊𝖘𝖎𝖘 𝖔𝖋 𝖈𝖚𝖗𝖎𝖔𝖘𝖎𝖙𝖞...❣👨‍🔬</h1></div>
