@@ -20,16 +20,8 @@
     <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" /></td>    
     <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50" /></td>    
   </tr>
-  
-  
 </table>
-
-
-
- 
-
-
-<details open>  
+<hr>  
   <summary><h2>Streaks, Stats & Activity</h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img alt="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
@@ -41,10 +33,7 @@
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=00ffff" />
     <br/>
-
 </p>
-</details>
-  
 </div>
 
 
