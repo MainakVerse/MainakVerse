@@ -102,7 +102,7 @@
 <div align="center"><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></div>
     
    <div class="footer" align="center">
-     <h3>Hope you liked the tour</h3>😅
+     <h3>Hope you liked the tour 😅</h3>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰" alt="Footer" />
 </div>
  
