@@ -27,7 +27,7 @@
 <h3>CHECK OUT MY ORGANIZATIONS ♾️</h3>
 <table>
   <tr>
-    <td><a href="https://supernova-mv-netlify.app/"><img src="https://github.com/user-attachments/assets/acd17483-b71d-43cc-862e-bd74649867a7"></a></td>
+    <td><a href="https://supernova-mv.netlify.app/"><img src="https://github.com/user-attachments/assets/acd17483-b71d-43cc-862e-bd74649867a7"></a></td>
     <td><a href="https://panthalasso.netlify.app/"><img src="https://github.com/user-attachments/assets/fc915972-5ee6-4384-9f9f-4b189d44b02b"></a></td>
 
 
