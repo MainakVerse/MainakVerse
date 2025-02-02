@@ -61,11 +61,6 @@
 
 </div>
 
-
-
-
-
-
 <h3>THE LANGUAGE I CODE IN</h3>
 <table>
   <tr>
@@ -97,14 +92,15 @@
   </tr>
 </table>
 
-
-<hr>
-
 <h3>A secret about me:</h3>
 <details>
   <h2>Yes! You have seen right</h2>
   <img src="https://user-images.githubusercontent.com/64016811/144610111-95b04651-8474-4596-8bc9-b46717caa37f.png">
 </details>
+
+<hr>
+
+
 
 <div align="center">
     
