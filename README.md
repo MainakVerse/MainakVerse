@@ -18,10 +18,24 @@
   </tr>
   <tr>    
     <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" /></td>    
-    <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50" /></td>    
+    <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50"/></td>    
+  </tr> 
+</table>
+
+
+<table>   
+   <tr> 
+    <h3>CONNECT</h3>
+    <td>Network is the Net-Worth. If you feel that are something beyond codes that you want to share, I would be glad to connect with you. Criticisms and Proposals are always welcome! </td>
+    <td><a href="">Portfolio</a></td>
+    <td><a href="">Instagram</a></td>
+    <td><a href="">Linkedin</a></td>
+    <td><a href="">Email</a></td>
+    <td><a href="">Blogger</a></td>
+    <td><a href="">YouTube</a></td>
   </tr>
 </table>
-<hr>  
+
 
 <details open>
   <summary><h2>Streaks, Stats & Activity</h2></summary>
@@ -36,7 +50,7 @@
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=00ffff" />
     <br/>
 </p>
-  <details>
+</details>
 </div>
 
 
@@ -52,14 +66,7 @@ Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of
 
 <hr>
 
-<table>
-  <tr>
-    <td>Portfolio</td>
-    <td>Instagram</td>
-    <td>Linkedin</td>
-    <td>Email</td>
-  </tr>
-</table>
+
  
 ### 🎈🧧 What I do in Github ?
 
