@@ -21,14 +21,14 @@
 <p/>
 
 <details open>  
-  <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Mainak Chaudhuri" width="30" height="30"></h2></summary>
+  <summary><h2>Streaks, Stats & Activity</h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img alt="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=0000cc&ring_color=0000cc&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
+  <img alt="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img alt ="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=0000CC&fire=0000CC&card_height=205&currStreakLabel=0000CC&ring=0000CC&border=000000" />
+    <img alt ="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img alt="Mainak Chaudhuri" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=0000CC&area=true&point=0000CC&line=0000CC&" />
+<img alt="Mainak Chaudhuri" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=0000CC" />
     <br/>
