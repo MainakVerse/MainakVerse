@@ -45,9 +45,9 @@
 
 <h3>ACTIVITIES</h3>
   <table>
-    <tr><td><img alt="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
+    <tr><td><img alt="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
 </td>
-      <td><img alt ="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
+      <td><img alt ="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=220&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
     </tr>
   </table>
 
