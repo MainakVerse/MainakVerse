@@ -1,14 +1,13 @@
 ![image](https://github.com/user-attachments/assets/85aa1155-2150-425c-bca2-1aa0326820cc)
 
-<div align="center"><h1>𝕿𝖔 𝖙𝖍𝖊 𝖌𝖊𝖓𝖊𝖘𝖎𝖘 𝖔𝖋 𝖈𝖚𝖗𝖎𝖔𝖘𝖎𝖙𝖞...❣👨‍🔬</h1></div>
-
-
-
 <table>
   <tr>
-    <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" /></td>
-    <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50" /></td>
-    
+    <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" /></td>    
+    <td><img src="https://profile-counter.glitch.me/MainakVerse/count.svg" alt="vistor count" height="50" /></td>    
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
  
   
