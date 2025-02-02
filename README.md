@@ -1,12 +1,14 @@
 ![image](https://github.com/user-attachments/assets/85aa1155-2150-425c-bca2-1aa0326820cc)
 
 <table>
+  <h3>PROFILE SUMMARY</h3>
   <tr>
     <td align="justify">Hey there, I am Mainak Chaudhuri. I'm a dynamic <b>Data Scientist</b>, <b>Salesforce</b> and <b>Full-stack Web Developer</b> with 2+ years of diverse experience in industry and startup environments. Expert in leveraging data to drive insights and innovation. Proven track record in web development, API building, unit testing, payment gateway integration, CMS integration, blogger integration, Generative AI, LLM, machine learning, predictive analytics, deep learning, NLP and data-driven decision-making, delivering impactful solutions in fast-paced settings. Passionate about transforming data into actionable strategies, especially with the help of web technologies for better and more widespread impact. A growth-hacker and professional writer with the aim of rising positivity amongst people.</td>
   </tr>
 </table>
 
 <table> 
+  <h3>ABOUT ME</h3>
   <tr>
     <td align="center">
   <a href="https://github.com/MainakVerse?tab=followers">
