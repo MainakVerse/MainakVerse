@@ -24,6 +24,18 @@
   </tr> 
 </table>
 
+<table>
+  <tr>
+    <td><a href="https://supernova-mv-netlify.app/"><img src="https://github.com/user-attachments/assets/acd17483-b71d-43cc-862e-bd74649867a7"></a></td>
+    <td><a href="https://panthalasso.netlify.app/"><img src="https://github.com/user-attachments/assets/59146392-16b2-4ee5-af4c-368bf5f7f44a"></a></td>
+
+  </tr>
+  <tr>
+    <td><a href="https://quantum-vedas.netlify.app/"><img src="https://github.com/user-attachments/assets/c8f769b0-a3d8-41dc-a548-b6cbe2e50045"></a></td>
+    <td><a href="https://rivestian.netlify.app/"><img src="https://github.com/user-attachments/assets/b5a79336-ebe0-4014-a245-1bd9fe633eed"></a></td>
+
+  </tr>
+</table>
 
 <table>   
    <tr> 
