@@ -39,8 +39,7 @@
 </table>
 
 
-<details open>
-  <summary><h2>ACTIVITIES & STRATEGIES</h2></summary>
+<h3>ACTIVITIES & STRATEGIES</h3>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8">
   <table>
@@ -55,7 +54,7 @@
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
     <br/>
 </p>
-</details>
+
 </div>
 
 
