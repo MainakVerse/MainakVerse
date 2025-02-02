@@ -28,7 +28,7 @@
 <table>   
    <tr> 
     <h3>CONNECT 🤝</h3>
-    <td>Network is the Net-Worth. If you feel that are something beyond codes that you want to share, I would be glad to connect with you. Criticisms and Proposals are always welcome! </td>
+    <td>Network is the Net-Worth. If you feel that there are somethings beyond codes that you want to share, I would be glad to connect with you. Criticisms and Proposals are always welcome! </td>
     <td><a href="https://mainakchaudhuri.netlify.app/"><img src="https://github.com/user-attachments/assets/553fe413-7a16-4336-a038-8af2bfe10135" width="100"></a></td>
     <td><a href="https://www.instagram.com/the_emperor_of_logic/"><img src="https://github.com/user-attachments/assets/e8e39730-3624-4a1e-86d5-9413867530bb" width="100"></a></td>
     <td><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/"><img src="https://github.com/user-attachments/assets/b5f95316-1aae-46d3-a4e6-8b0b5dbb626d" width="100"></a></td>
@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-<h3>A SECRET ABOUT ME: 😉</h3>
+<h3>WANT TO KNOW A SECRET ABOUT ME: 😉</h3>
 <details>
   <h2>Yes! You have seen right</h2>
   <img src="https://user-images.githubusercontent.com/64016811/144610111-95b04651-8474-4596-8bc9-b46717caa37f.png">
