@@ -13,28 +13,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=Hi+there+,+I'm+Mainak+Chaudhuri;Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;Astrophysicist" alt="Headline" />
 </div>
  
+<p align="center">
+  <a href="https://github.com/MainakVerse?tab=followers">
+    <img alt="Mainak Chaudhuri" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MainakVerse?color=FF0000&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
+    <img alt="Mainak Chaudhuri" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/MainakVerse?color=FF0000&labelColor=000000&logo=star&style=for-the-badge"/>
 
-<div align="center"><h3> <|-----{{ SHORORIPU }}-----|> </h3>
-             You can find me here apart from GitHub 😌
-  <table>       
-    <tr>      
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234900457-8f46b02c-9ca4-42a3-bab5-7bf6593afcfd.png"></td>
-      <td><a href="https://leetcode.com/mainak_ninja/" title="LeetCode">Leetcode</a></td>
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900184-f88ad750-b1a9-4471-98d8-6cdfdd0d1915.png"></td>
-      <td><a href="https://www.hackerrank.com/MAINAK039">HackerRank</a></td>
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900180-9fb0f2a3-bccb-4598-8a40-e6261993c143.png"></td>
-      <td><a href="https://memerminati.blogspot.com/" title="Blogger">Blogger</a></td>
-    </tr>
-    <tr>      
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234898090-fdac8532-2aff-4d3d-b04e-1cea834647cc.png"></td>
-      <td><a href="https://www.instagram.com/the_cyber_kshatriya/">Instagram</a></td>
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png"></td>
-      <td><a href="https://www.codechef.com/users/lucifer_khilji">Codechef</a></td>
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900174-9aa8ff7d-84d6-473e-9432-93690827d161.png"></td>
-      <td><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin">Linkedin</a></td>
-    </tr>
-  </table>
-</div>
+<p/>
+
   
 </div>
 
