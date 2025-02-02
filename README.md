@@ -43,9 +43,14 @@
   <summary><h2>ACTIVITIES & STRATEGIES</h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8">
-  <img alt="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img alt ="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" />
+  <table>
+    <tr><td><img alt="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
+</td>
+      <td><img alt ="Mainak Chaudhuri" align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
+    </tr>
+  </table>
+      <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
+    
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
 <img alt="Mainak Chaudhuri" width="905" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
