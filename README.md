@@ -40,8 +40,9 @@
 
 
 <details open>
-  <summary><h2>Streaks, Stats & Activity</h2></summary>
+  <summary><h2>ACTIVITIES & STRATEGIES</h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
+  <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=7">
   <img alt="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
     <img alt ="Mainak Chaudhuri" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" />
@@ -56,48 +57,42 @@
 </div>
 
 
-<hr>
-<div align="center">
- <h3> 🎭👋 About Me </h3></div>
-
-<div align="center"><img width="600" height="300" padding-left="60px" src="https://31.media.tumblr.com/c891df5d9d74fb5f8f1496d33d1cbec3/tumblr_n40g5wTcba1t24k6go1_500.gif" /></div>
-<div align="center">
-Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of diverse experience in industry and startup environments. Expert in leveraging data to drive insights and innovation. Proven track record in web development, API building, unit testing, machine learning, predictive analytics, deep learning, NLP and data-driven decision-making, delivering impactful solutions in fast-paced settings. Passionate about transforming data into actionable strategies, especially with the help of web technologies for better and more widespread impact. A growth-hacker and professional writer with the aim of rising positivity amongst people.</div>
-
-### Want to know more about me? Have a look at [My Portfolio Website](https://mainakchaudhuri.netlify.app/)
-
-<hr>
 
 
- 
-### 🎈🧧 What I do in Github ?
 
-<h4> I contribute to open source 💖🎯</h4>
-<ul>
- <li>🔭 I’m currently working on something cool and exciting 😉</li>
- <li>🌱 I’m currently learning Deep Learning, Functional Programming and Flutter Development</li>
- <li>💬 Ask me about anything related to Python, Linux, Data Analytics or Machine Learning</li>
- <li>📫 How to reach me: mainakchaudhuri671@gmail.com</li>
- <li>⚡ Fun fact: I ❤️ 🐈s,🎼🎵,💻 </li>
-</ul>
-<hr>
 
-### 🎯🎖⚙ My Skills:
-<div align="center"><span><img height="200" width="400" src="https://bestanimations.com/Science/Gears/loadinggears/loading-gears-animation-3.gif"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span></div>
-<ol>
-  
-  <li>Data Science enthusiast📊🖥</li>
-  <li>Machine Learning enthusiast (with special emphasis on regressions and trees)🌳⛰️</li>
-  <li>Deep Learning enthusiast (Perceptrons and their biases are my addiction)🧠🏻</li>
-  <li>Web Developer (Fullstack, comfortable with Django and WAMP stacks, learning MERN)🕸️</li>
-  <li>Computer Vision enthusiast🤖</li>
-  <li>Linux Shell Scripter🐧</li>
-  <li>Blockchain Developer💰</li>
-  <li>Competitive Coder (HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics | Codechef 3 ⭐ Rating 1633 💻🖥💻)</li>
-  <li>Streamlit Webapps developer📱</li>
-  <li>Quantum Computing Researcher📕</li>
-  
-  </ol>
+<h3>THE LANGUAGE I CODE IN</h3>
+<table>
+  <tr>
+    <td><div align="center"><img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></div></td>
+    <td>
+     <table>       
+  <tr>
+    <td><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></td>
+    <td><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></td>
+  </tr>       
+    <tr>
+       <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
+       <td><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></td>
+       <td><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/></td>
+      <td><img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></td>
+      <td><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></td>
+    </tr>
+      <tr>
+        <td><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></td>
+        <td><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
+        <td><img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></td>
+        </tr>       
+  </table>
+    </td>
+  </tr>
+</table>
+
+
 <hr>
 
 <h3>A secret about me:</h3>
@@ -252,7 +247,7 @@ Dynamic Data Scientist, Salesforce and Full-stack Web Developer with 2+ years of
   
 <h2>🏆 My Trophies: </h2>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2>📊 My Github Stats: </h2>
 <center>
