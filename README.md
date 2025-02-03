@@ -107,6 +107,8 @@
 </table>
 
 <h3>MY STACK 📚</h3>
+
+<details>
 <table>
   <tr>
     <td>DESIGNING</td>
@@ -151,7 +153,7 @@
     <td><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></td>
   </tr>
 </table>
-
+</details>
 
 <h3>WANT TO KNOW A SECRET ABOUT ME: 😉</h3>
 <details>
