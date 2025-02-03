@@ -155,11 +155,11 @@
 </table>
 </details>
 
-<h3>SUPERSTAR REPOS</h3>
+<h3>SUPERSTAR REPOSITORIES ⭐</h3>
 <table>
   <tr><td>Repository Name</td><td>Stars :star:</td><td>Forks 🍴</td></tr>
   <tr><td>MainakVerse</td><td><img src="https://img.shields.io/github/stars/MainakVerse/MainakVerse?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/MainakVerse?style=for-the-badge"></td></tr>
-  <tr><td>Mausam Net</td><td><img src="https://img.shields.io/github/stars/MainakVerse/mausum-net?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/mausum-net?style=for-the-badge"></td></tr>
+  <tr><td>Mausam Net</td><td><img src="https://img.shields.io/github/stars/MainakVerse/mausam-net?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/mausam-net?style=for-the-badge"></td></tr>
   <tr><td>Gymrat</td><td><img src="https://img.shields.io/github/stars/MainakVerse/gymrat?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/gymrat?style=for-the-badge"></td></tr>
 </table>
 
