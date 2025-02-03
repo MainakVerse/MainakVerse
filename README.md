@@ -156,9 +156,13 @@
 </details>
 
 <h3>SUPERSTAR REPOS</h3>
-| Repository 📚 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🖋 |
-|---------|-------|-------|--------|---------------|
-| Git Steps | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Git-steps?style=for-the-badge) |
+<table>
+  <tr><td>Repository Name</td><td>Stars :star:</td><td>Forks 🍴</td></tr>
+  <tr><td>MainakVerse</td><td><img src="https://img.shields.io/github/stars/MainakVerse/MainakVerse?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/MainakVerse?style=for-the-badge"></td></tr>
+  <tr><td>Mausam Net</td><td><img src="https://img.shields.io/github/stars/MainakVerse/mausum-net?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/mausum-net?style=for-the-badge"></td></tr>
+  <tr><td>Gymrat</td><td><img src="https://img.shields.io/github/stars/MainakVerse/gymrat?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/gymrat?style=for-the-badge"></td></tr>
+</table>
+
 
 <h3>WANT TO KNOW A SECRET ABOUT ME: 😉</h3>
 <details>
