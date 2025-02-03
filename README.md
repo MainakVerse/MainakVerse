@@ -155,6 +155,11 @@
 </table>
 </details>
 
+<h3>SUPERSTAR REPOS</h3>
+| Repository 📚 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🖋 |
+|---------|-------|-------|--------|---------------|
+| Git Steps | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Git-steps?style=for-the-badge) |
+
 <h3>WANT TO KNOW A SECRET ABOUT ME: 😉</h3>
 <details>
   <h2>Yes! You have seen right</h2>
