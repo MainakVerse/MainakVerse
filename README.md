@@ -157,11 +157,26 @@
 
 <h3>SUPERSTAR REPOSITORIES ⭐</h3>
 <table>
+  <tr>
+    <td>
+      <table>
   <tr><td>Repository Name</td><td>Stars :star:</td><td>Forks 🍴</td></tr>
   <tr><td>MainakVerse</td><td><img src="https://img.shields.io/github/stars/MainakVerse/MainakVerse?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/MainakVerse?style=for-the-badge"></td></tr>
   <tr><td>Mausam Net</td><td><img src="https://img.shields.io/github/stars/MainakVerse/mausam-net?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/mausam-net?style=for-the-badge"></td></tr>
   <tr><td>Gymrat</td><td><img src="https://img.shields.io/github/stars/MainakVerse/gymrat?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/gymrat?style=for-the-badge"></td></tr>
 </table>
+    </td>
+    <td>
+      <table>
+  <tr><td>Repository Name</td><td>Stars :star:</td><td>Forks 🍴</td></tr>
+  <tr><td>ABC</td><td><img src="https://img.shields.io/github/stars/MainakVerse/abc?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/abc?style=for-the-badge"></td></tr>
+  <tr><td>Sidhu Jetha AI</td><td><img src="https://img.shields.io/github/stars/MainakVerse/sidhu-jetha-ai?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/sidhu-jetha-ai?style=for-the-badge"></td></tr>
+  <tr><td>Supernova</td><td><img src="https://img.shields.io/github/stars/MainakVerse/supernova?style=for-the-badge"></td><td><img src="https://img.shields.io/github/forks/MainakVerse/supernova?style=for-the-badge"></td></tr>
+</table>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3>WANT TO KNOW A SECRET ABOUT ME: 😉</h3>
