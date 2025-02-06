@@ -52,9 +52,9 @@
   </tr>
 </table>
 
-<h3>MY PREVIOUS GITHUB (Which unfortunately got locked due to losing of my GitHub secrets 🥲 - UNLUCKY ME!)</h3>
+<h3>MY PREVIOUS GITHUB </h3>
 <table>
-  <tr><td><a href="https://www.github.com/MainakRepositor"><img src="https://github.com/user-attachments/assets/370d66e5-7d5e-4d63-97f8-5e4eaf5b04d3" width="200" width="80"></td></tr>
+  <tr><td>(Which unfortunately got locked due to losing of my GitHub secrets 🥲 - UNLUCKY ME!)</td><td><a href="https://www.github.com/MainakRepositor"><img src="https://github.com/user-attachments/assets/370d66e5-7d5e-4d63-97f8-5e4eaf5b04d3" width="200" width="80"></td></tr>
 </table>
 
 
