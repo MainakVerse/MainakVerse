@@ -24,6 +24,11 @@
   </tr> 
 </table>
 
+<h3>MY OTHER GITHUB (Which unfortunately got locked due to losing of my GitHub secrets 🥲 - UNLUCKY ME!)</h3>
+<table>
+  <tr><td><a href="https://www.github.com/MainakRepositor"></td></tr>
+</table>
+
 <h3>CHECK OUT MY ORGANIZATIONS ♾️</h3>
 <table>
   <tr>
