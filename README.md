@@ -24,9 +24,6 @@
   </tr> 
 </table>
 
-<h3>CHECKOUT MY CODERSRANK PROFILE 🎖️</h3>
-<table><tr><td>https://profile.codersrank.io/user/mainakverse</td></tr></table>
-
 <h3>CHECK OUT MY ORGANIZATIONS ♾️</h3>
 <table>
   <tr>
