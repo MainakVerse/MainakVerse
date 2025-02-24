@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><a href="https://quantum-vedas.netlify.app/"><img src="https://github.com/user-attachments/assets/c8f769b0-a3d8-41dc-a548-b6cbe2e50045"></a></td>
-    <td><a href="https://rivestian.netlify.app/"><img src="https://github.com/user-attachments/assets/efe50b05-eaa7-4cd9-824e-61e9babcfc2a"></a></td>
+    <td><a href="https://renaissance-mv.netlify.app/"><img src="https://github.com/user-attachments/assets/1ae88f3b-601e-425b-b3cb-25b714394645"></a></td>
 
   </tr>
 </table>
