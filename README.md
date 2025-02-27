@@ -49,12 +49,6 @@
   </tr>
 </table>
 
-<h3>MY PREVIOUS GITHUB </h3>
-<table>
-  <tr><td>(Which unfortunately got locked due to the loss of my GitHub secrets 🥲 - UNLUCKY ME!)</td><td><a href="https://www.github.com/MainakRepositor"><img src="https://github.com/user-attachments/assets/370d66e5-7d5e-4d63-97f8-5e4eaf5b04d3" width="200" width="50"></td></tr>
-</table>
-
-
 <h3>ACHIEVEMENTS 🏆</h3>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8&margin-w=15">
