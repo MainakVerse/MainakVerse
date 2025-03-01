@@ -159,11 +159,11 @@
 </details>
 
 <div align="center"><h3> SO, HOW'S THAT? </h3></div>
-<div align="center"><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></div>
+<div align="center"><img height="300" width="500" src="https://goodnessbea.wordpress.com/wp-content/uploads/2021/04/tumblr_418a08e6b0d7280ee91f7222fb9aff7a_8c355a2a_500.gif?w=500"></div>
     
    <div class="footer" align="center">
      <h3>Hope you liked the tour 😅</h3>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰" alt="Footer" />
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰" alt="Footer" />
 </div>
  
 <div align="center">
