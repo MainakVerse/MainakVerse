@@ -21,6 +21,22 @@
   </tr> 
 </table>
 
+<h3>ACHIEVEMENTS 🏆</h3>
+    <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
+  <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8&margin-w=15">
+
+<h3>ACTIVITIES 🧶</h3>
+  <table>
+    <tr><td><img alt="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
+</td>
+      <td><img alt ="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
+    </tr>
+  </table>
+
+<h3>STATS 📊</h3>     
+<img alt="Mainak Chaudhuri" width="905" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
+
+
 <h3>CHECK OUT MY ORGANIZATIONS ♾️</h3>
 <table>
   <tr>
@@ -49,20 +65,6 @@
   </tr>
 </table>
 
-<h3>ACHIEVEMENTS 🏆</h3>
-    <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8&margin-w=15">
-
-<h3>ACTIVITIES 🧶</h3>
-  <table>
-    <tr><td><img alt="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
-</td>
-      <td><img alt ="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
-    </tr>
-  </table>
-
-<h3>STATS 📊</h3>     
-<img alt="Mainak Chaudhuri" width="905" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=00ffff&area=true&point=00ffff&line=00ffff&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
 <h3>MOST USED TECHS ⚙️</h3>
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
