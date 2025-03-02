@@ -164,7 +164,7 @@
     
    <div class="footer" align="center">
      <h3>Hope you liked the tour 😅</h3>
-     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰;" alt="Footer" />
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰;Баярлалаа+😉;" alt="Footer" />
 </div>
  
 <div align="center">
