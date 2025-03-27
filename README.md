@@ -25,10 +25,6 @@
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8&margin-w=15">
 
-<h3>CERTIFICATIONS 📄</h3>
-
-![image](https://github.com/user-attachments/assets/15daf9ec-7482-49ca-aa46-5a8328f0989d)
-
 <h3>ACTIVITIES 🧶</h3>
   <table>
     <tr><td><img alt="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=00ffff&ring_color=00ffff&bg_color=000000&text_color=FFFFFF&rank_icon=level" />
@@ -44,6 +40,10 @@
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
     <br/>
 
+
+<h3>CERTIFICATIONS 📄</h3>
+
+![image](https://github.com/user-attachments/assets/15daf9ec-7482-49ca-aa46-5a8328f0989d)
 
 <h3>CHECK OUT MY ORGANIZATIONS ♾️</h3>
 <table>
