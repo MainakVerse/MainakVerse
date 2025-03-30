@@ -164,7 +164,7 @@
 </details>
 
 <div align="center"><h3> SO, HOW'S THAT? </h3></div>
-<div align="center"><img height="300" width="500" src="https://goodnessbea.wordpress.com/wp-content/uploads/2021/04/tumblr_418a08e6b0d7280ee91f7222fb9aff7a_8c355a2a_500.gif?w=500"></div>
+<div align="center"><img height="300" width="500" src="https://64.media.tumblr.com/c37c686ef71b193f03b0a914ff2e435c/tumblr_oxkb67y9ht1u1ptt5o8_r1_400.gif"></div>
     
    <div class="footer" align="center">
      <h3>Hope you liked the tour 😅</h3>
