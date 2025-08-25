@@ -108,7 +108,7 @@
 </table>
 
 
-<h3>THE ROLES WHERE I FIT 🪟</h3>
+<h3>MY SKILLSETS 🪟</h3>
 <table>
   <tr>
     <td>Software Development Engineer</td>
