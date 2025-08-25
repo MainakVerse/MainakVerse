@@ -107,6 +107,29 @@
   </tr>
 </table>
 
+
+<h3>THE ROLES WHERE I FIT 🪟</h3>
+<table>
+  <tr>
+    <td>Software Development Engineer</td>
+    <td>AI/ML, Automation & Data Engineer</td>
+  </tr>
+    <tr>
+      <td><img width="534" height="530" alt="Screenshot 2025-08-25 184305" src="https://github.com/user-attachments/assets/19ed4e16-239c-486f-b336-1d7aeda50e3f" /></td>
+      <td><img width="532" height="535" alt="Screenshot 2025-08-25 184751" src="https://github.com/user-attachments/assets/075e9333-5d81-41af-a8a0-a50f61bdf64b" /></td>
+    </tr>
+</table>
+<table>
+   <tr>
+    <td>Salesforce Consultant</td>
+    <td>DevOps Engineer</td>
+  </tr>
+    <tr>
+      <td><img width="535" height="537" alt="Screenshot 2025-08-25 184938" src="https://github.com/user-attachments/assets/99902fe4-6ead-4349-98ee-0d10c95930fe" /></td>
+      <td><img width="530" height="531" alt="image" src="https://github.com/user-attachments/assets/d78e8a6d-a9a6-4905-819f-e0b4eb5cbb17" /></td>
+    </tr>  
+</table>
+
 <h3>MY STACK 📚</h3>
 
 <details>
