@@ -111,8 +111,8 @@
 <h3>MY SKILLSETS 🪟</h3>
 <table>
   <tr>
-    <td>Software Development Engineer</td>
-    <td>AI/ML, Automation & Data Engineer</td>
+    <td><b>Software Development Engineer</b></td>
+    <td><b>AI/ML, Automation & Data Engineer</b></td>
   </tr>
     <tr>
       <td><img width="534" height="530" alt="Screenshot 2025-08-25 184305" src="https://github.com/user-attachments/assets/19ed4e16-239c-486f-b336-1d7aeda50e3f" /></td>
@@ -121,8 +121,8 @@
 </table>
 <table>
    <tr>
-    <td>Salesforce Consultant</td>
-    <td>DevOps Engineer</td>
+    <td><b>Salesforce Consultant</b></td>
+    <td><b>DevOps Engineer</b></td>
   </tr>
     <tr>
       <td><img width="535" height="537" alt="Screenshot 2025-08-25 184938" src="https://github.com/user-attachments/assets/99902fe4-6ead-4349-98ee-0d10c95930fe" /></td>
