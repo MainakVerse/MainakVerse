@@ -23,7 +23,7 @@
 
 <h3>ACHIEVEMENTS 🏆</h3>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img src="https://github-trophies.vercel.app/?username=MainakVerse&theme=algolia&row=1&column=8&margin-w=15">
+  <img src="https://github-trophies.vercel.app/?username=MainakVerse&theme=algolia&margin-w=15">
 
 <h3>ACTIVITIES 🧶</h3>
   <table>
