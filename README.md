@@ -64,8 +64,7 @@
    <tr> 
     <h3>CONNECT 🤝</h3>
     <td>Network is the Net-Worth. If you feel that there are somethings beyond codes that you want to share, I would be glad to connect with you. Criticisms and Proposals are always welcome! </td>
-    <td><a href="https://mainakchaudhuri.netlify.app/"><img src="https://github.com/user-attachments/assets/553fe413-7a16-4336-a038-8af2bfe10135" width="100"></a></td>
-    <td><a href="https://www.instagram.com/the_supernova_business/"><img src="https://github.com/user-attachments/assets/e8e39730-3624-4a1e-86d5-9413867530bb" width="100"></a></td>
+    <td><a href="https://mainakchaudhuri.netlify.app/"><img src="https://github.com/user-attachments/assets/553fe413-7a16-4336-a038-8af2bfe10135" width="100"></a></td>    
     <td><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/"><img src="https://github.com/user-attachments/assets/b5f95316-1aae-46d3-a4e6-8b0b5dbb626d" width="100"></a></td>
     <td><a href="emailto:mainakchaudhuri671@gmail.com"><img src="https://github.com/user-attachments/assets/5da4a3f2-c770-4af0-a7d2-669fbb318eff" width="100"></a></td>
     <td><a href="https://luciferkhusrao.blogspot.com/"><img src="https://github.com/user-attachments/assets/8483b46e-ace5-4ac8-b745-55b051b20c83" width="100"></a></td>
