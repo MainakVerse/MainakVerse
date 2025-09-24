@@ -45,20 +45,6 @@
 
 ![image](https://github.com/user-attachments/assets/15daf9ec-7482-49ca-aa46-5a8328f0989d)
 
-<h3>CHECK OUT MY ORGANIZATIONS ♾️</h3>
-<table>
-  <tr>
-    <td><a href="https://supernovabusiness.in/"><img src="https://github.com/user-attachments/assets/acd17483-b71d-43cc-862e-bd74649867a7"></a></td>
-    <td><a href="https://panthalasso-mv.netlify.app/"><img src="https://github.com/user-attachments/assets/fc915972-5ee6-4384-9f9f-4b189d44b02b"></a></td>
-
-
-  </tr>
-  <tr>
-    <td><a href="https://quantum-vedas.netlify.app/"><img src="https://github.com/user-attachments/assets/c8f769b0-a3d8-41dc-a548-b6cbe2e50045"></a></td>
-    <td><a href="https://renaissance-mv.netlify.app/"><img src="https://github.com/user-attachments/assets/1ae88f3b-601e-425b-b3cb-25b714394645"></a></td>
-
-  </tr>
-</table>
 
 <table>   
    <tr> 
