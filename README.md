@@ -3,7 +3,7 @@
 <table>
   <h3>PROFILE SUMMARY 💿</h3>
   <tr>
-    <td align="justify">Hey there, I am Mainak Chaudhuri. I'm a dynamic <b>Full-stack Web Developer</b>, <b>Data Scientist</b>, <b>Salesforce Developer</b>, <b>Wordpress Developer</b>, <b>Shopify Developer</b> and <b>A Founder</b> with 3+ years of diverse experience in industry and startup environments. Expert in leveraging data to drive insights and innovation. Proven track record in web development, API building, unit testing, payment gateway integration, CMS integration, blogger integration, Generative AI, LLM, machine learning, predictive analytics, deep learning, NLP and data-driven decision-making, delivering impactful solutions in fast-paced settings. Passionate about transforming data into actionable strategies, especially with the help of web technologies for better and more widespread impact. A growth-hacker and professional writer with the aim of rising positivity amongst people.</td>
+    <td align="justify">Hey there, I am Mainak Chaudhuri. I'm a dynamic <b>Data Engineer, AI/ML Engineer, Gen AI Engineer, Full-stack Web Developer, Quantum Computing Expert, and System Architect</b> with 3+ years of diverse experience across industry and startup ecosystems. Skilled in building robust data pipelines, scalable architectures, and intelligent systems that bridge software and AI. Proven track record in model deployment, API engineering, system optimization, LLM fine-tuning, and quantum algorithm experimentation—delivering high-impact solutions in fast-paced settings. Passionate about transforming data and intelligence into real-world innovation through next-gen technologies. A growth-driven creator and problem solver committed to building a positive, smarter future.</td>
   </tr>
 </table>
 
