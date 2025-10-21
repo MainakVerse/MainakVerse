@@ -46,7 +46,9 @@
 
 <h3>CERTIFICATIONS 📄</h3>
 
-![image](https://github.com/user-attachments/assets/15daf9ec-7482-49ca-aa46-5a8328f0989d)
+|-----------------------------|-----------------------------|
+| ![image](https://github.com/user-attachments/assets/15daf9ec-7482-49ca-aa46-5a8328f0989d) | ![Oracle AI Certification](https://github.com/user-attachments/assets/81e86966-ed03-449f-aafc-3d8715578083)
+ |
 
 
 <table>   
