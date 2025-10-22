@@ -186,6 +186,9 @@
      <h3>Hope you liked the tour 😅</h3>
      <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰;Баярлалаа+😉;" alt="Footer" />
 </div>
+
+![Git Skyline contributions]([https://git-skyline.huakun.tech/contribution/github/MainakVerse/embed?year=2025](https://gh-skyline.dev/?s=N4IgbiBcCMA0IBcCeAHAplEBbAlgOxywEMAbEePIrDSEAWSPyIGsA1NAJwGcN4uEiHBAE00gqACYADBICs8NHgAmo8ZGlyAvkA))
+
  
 <div align="center">
 :x: :x: :x: :x: :x: :x: :x: 𝐓𝐇𝐄 𝐄𝐍𝐃  :x: :x: :x: :x: :x: :x: :x: :x:
