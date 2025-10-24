@@ -13,7 +13,8 @@
  
   <tr>    
     <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;SAP+Consultant;Astrophysicist" alt="Headline" /></td> 
-    <td style="background-color: lightblue;"><a href="https://mainak-chaudhuri.vercel.app/">Check Out</a></td>
+    <td style="background-color: lightblue;"><a href="https://mainak-chaudhuri.vercel.app/">![IWannaHearMoreSamusPaulicelliGIF](https://github.com/user-attachments/assets/f0c1d587-e42a-44e5-a142-4865ac212e43)
+ </a></td>
     
   </tr> 
 </table>
