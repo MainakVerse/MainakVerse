@@ -10,12 +10,7 @@
 
 <table> 
   <h3>ABOUT ME 🕵️</h3>
-  <tr>
-    <td align="center">
-    <a href="https://profile.codersrank.io/user/mainakverse">CoderRank Profile</a>
-</td>
-    
-  </tr>
+ 
   <tr>    
     <td><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Fullstack+Web+Developer;Data+Scientist;Programmer;Freelancer;DevOps+Enthusiast;Quantum+Computing+Researcher;SAP+Consultant;Astrophysicist" alt="Headline" /></td>    
     
