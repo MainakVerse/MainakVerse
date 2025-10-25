@@ -39,7 +39,6 @@
     <img alt="Mainak Chaudhuri" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=905&hide_border=true&title_color=00ffff" />
     <br/>
 
-
 <h3>CERTIFICATIONS 📄</h3>
 
 <table
