@@ -23,6 +23,9 @@
 
   <!--<img src="https://github-profile-trophy.vercel.app/?username=MainakVerse&theme=algolia&margin-w=15&margin-h=5&row=1&column=8">-->
   <img src="https://github-trophies.vercel.app/?username=MainakVerse&theme=algolia&margin-w=15&margin-h=5&row=1&column=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Organizations">
+
+  <h3>BADGES 🛡️</h3>
+  
   <img width="1400" height="345" alt="514541307-857d565b-f645-4d67-a7b5-4f7dc98f935d" src="https://github.com/user-attachments/assets/8bd8f66f-68ed-4290-b7e2-911e550e2911" />
 
 
