@@ -4,7 +4,7 @@
 <table>
   <h3>PROFILE SUMMARY 💿</h3>
   <tr>
-    <td align="justify">Hey there, I am Mainak Chaudhuri - A Gen AI & Data Engineering Specialist. I'm a dynamic <b>Data Engineer, AI/ML Engineer, Gen AI Engineer, Full-stack Web Developer, Quantum Computing Expert, and System Architect</b> with 3+ years of diverse experience across industry and startup ecosystems. Skilled in building robust data pipelines, scalable architectures, and intelligent systems that bridge software and AI. Proven track record in model deployment, API engineering, system optimization, LLM fine-tuning, and quantum algorithm experimentation—delivering high-impact solutions in fast-paced settings. Passionate about transforming data and intelligence into real-world innovation through next-gen technologies. A growth-driven creator and problem solver committed to building a positive, smarter future.</td>
+    <td align="justify">Hey there, I am Mainak Chaudhuri - A Generative AI & Data Engineering Specialist. I'm a dynamic <b>Data Engineer, AI/ML Engineer, Gen AI Engineer, Full-stack Web Developer, Quantum Computing Expert, and System Architect</b> with 3+ years of diverse experience across industry and startup ecosystems. Skilled in building robust data pipelines, scalable architectures, and intelligent systems that bridge software and AI. Proven track record in model deployment, API engineering, system optimization, LLM fine-tuning, and quantum algorithm experimentation—delivering high-impact solutions in fast-paced settings. Passionate about transforming data and intelligence into real-world innovation through next-gen technologies. A growth-driven creator and problem solver committed to building a positive, smarter future.</td>
   </tr>
 </table>
 
