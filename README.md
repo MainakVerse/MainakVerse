@@ -33,10 +33,7 @@
 <h3>ACTIVITIES 🧶</h3>
   <table>
     <tr>
-      <td>
-        ![Mainak Stats](https://git-rank-one.vercel.app/api/widget?username=MainakVerse)
-</td>
-      <td><img alt ="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
+            <td><img alt ="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
     </tr>
   </table>
 
