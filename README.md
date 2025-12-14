@@ -33,7 +33,7 @@
 <h3>ACTIVITIES 🧶</h3>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=MainakVerse&show_icons=true&ring_color=00ffff&bg_color=000000&text_color=000fff&icon_color=000fff&title_color=000fff"</td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=MainakVerse&show_icons=true&ring_color=00ffff&bg_color=000000&text_color=00ffff&icon_color=00ffff&title_color=00ffff"</td>
             <td><img alt ="Mainak Chaudhuri" align="center" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=00ffff&fire=00ffff&card_height=205&currStreakLabel=00ffff&ring=00ffff&border=000000" /></td>
     </tr>
   </table>
