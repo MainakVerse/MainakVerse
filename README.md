@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/85aa1155-2150-425c-bca2-1aa0326820cc)
+<img width="1536" height="1024" alt="bg - Copy" src="https://github.com/user-attachments/assets/6f93e3d6-06eb-48ef-af52-a49b93aafbc3" />
+
 <!-- keywords: Data Engineer, AI Engineer, Machine Learning, GenAI, Quantum Computing, Fullstack Developer, Next.js, Python, System Architect -->
   
 <table>
