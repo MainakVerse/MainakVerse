@@ -188,7 +188,9 @@
 
 <div align="center"><h3> SO, HOW'S THAT? </h3></div>
 <div align="center"><img height="300" width="500" src="https://64.media.tumblr.com/c37c686ef71b193f03b0a914ff2e435c/tumblr_oxkb67y9ht1u1ptt5o8_r1_400.gif"></div>
-    
+<video width="800" autoplay muted loop>
+  <source src="jassi.mp4" type="video/mp4">
+</video>    
    <div class="footer" align="center">
      <h3>Hope you liked the tour 😅</h3>
      <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!+🤩;ধন্যবাদ+🙏;शुक्रिया+❤;谢谢+😁;Çok+teşekkür+🫡;Gracias+🥰;Баярлалаа+😉;" alt="Footer" />
